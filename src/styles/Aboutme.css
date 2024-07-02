@@ -119,3 +119,24 @@
 .resume-link:hover .underline {
   transform: scaleX(1);
 }
+
+@media (max-width: 768px) {
+  .about-me-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .left-section {
+    margin-bottom: 20px;
+  }
+
+  .right-section {
+    max-width: 100%; /* Adjust to fit full width on smaller screens */
+    margin-left: 0; /* Remove left margin on smaller screens */
+  }
+
+  .profile-image {
+    width: 150px; /* Adjust size for smaller screens */
+    height: 150px; /* Adjust size for smaller screens */
+  }
+}
