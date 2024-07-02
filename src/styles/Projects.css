@@ -1,0 +1,21 @@
+
+.project-title {
+    color: #fff; 
+    font-weight: bold;
+  }
+  
+  .project-description {
+    color: #ccc; 
+  }
+  
+  .project-button {
+    background-color: #121417; 
+    border-color: #007bff; 
+    color: #fff; 
+  }
+  
+  .project-button:hover {
+    background-color: #bfc1c4; 
+    border-color: #010810; 
+  }
+  

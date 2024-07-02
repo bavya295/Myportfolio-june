@@ -1,0 +1,18 @@
+.skill-logo {
+    height: 100px;
+    object-fit: contain;
+    margin-bottom: 15px;
+  }
+  
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(44, 41, 41,0.8); 
+  }
+  .skill-title {
+    color: #ffffff;
+    font-weight: bold;
+  }

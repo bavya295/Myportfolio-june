@@ -1,0 +1,45 @@
+/* Certi.css */
+
+.certificates-section {
+  background-color: rgba(192, 192, 198, 0.5);
+  padding: 40px 0; /* Padding around the section content */
+}
+
+.section-title {
+  color: #ffffff !important; /* Section title color */
+  margin-bottom: 20px; /* Space below the section title */
+}
+
+.certificate-card,
+.achievement-card {
+  background-color: rgba(44, 41, 41, 0.9); /* Slightly transparent dark background */
+  border: 1px solid #ddd; /* Card border */
+  padding: 15px;
+  color: white;
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Transition for hover effect */
+  margin-bottom: 20px; /* Equal spacing between cards */
+}
+
+.certificate-card:hover,
+.achievement-card:hover {
+  transform: translateY(-10px); /* Lift card on hover */
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2); /* Hover effect - shadow */
+}
+
+.logo-img {
+  max-width: 50px; /* Max width for logo images */
+  transition: transform 0.3s ease; /* Transition for logo animation */
+}
+
+.logo-img:hover {
+  transform: scale(1.1); /* Slight zoom */
+}
+
+.text-muted {
+  color: #a0a0a2 !important; /* Default muted text color */
+}
+.tit{
+  color: #ffffff;
+  font-size: 19px;
+  font-weight: bold;
+}
