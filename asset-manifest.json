@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Myportfolio-june/static/css/main.8409a4f3.css",
-    "main.js": "/Myportfolio-june/static/js/main.d593aa7a.js",
+    "main.css": "/Myportfolio-june/static/css/main.06ce87a8.css",
+    "main.js": "/Myportfolio-june/static/js/main.1b4151da.js",
     "static/js/453.83234151.chunk.js": "/Myportfolio-june/static/js/453.83234151.chunk.js",
     "static/media/Screenshot_2-7-2024_12029_github.com.jpeg": "/Myportfolio-june/static/media/Screenshot_2-7-2024_12029_github.com.add3982aba53a312ab6e.jpeg",
     "static/media/Screenshot_2-7-2024_121923_bavya295.github.io.jpeg": "/Myportfolio-june/static/media/Screenshot_2-7-2024_121923_bavya295.github.io.88c735278a63c90cd7d6.jpeg",
@@ -28,12 +28,12 @@
     "static/media/js-official-svgrepo-com.svg": "/Myportfolio-june/static/media/js-official-svgrepo-com.2cb10113045b7f7423443ff02d1d26d0.svg",
     "static/media/linkedin-svgrepo-com.svg": "/Myportfolio-june/static/media/linkedin-svgrepo-com.c341cc1c307221b0fe42599c619ceeaf.svg",
     "static/media/html-5-svgrepo-com.svg": "/Myportfolio-june/static/media/html-5-svgrepo-com.0107c93943a8f415b5db64ebb0a9d12d.svg",
-    "main.8409a4f3.css.map": "/Myportfolio-june/static/css/main.8409a4f3.css.map",
-    "main.d593aa7a.js.map": "/Myportfolio-june/static/js/main.d593aa7a.js.map",
+    "main.06ce87a8.css.map": "/Myportfolio-june/static/css/main.06ce87a8.css.map",
+    "main.1b4151da.js.map": "/Myportfolio-june/static/js/main.1b4151da.js.map",
     "453.83234151.chunk.js.map": "/Myportfolio-june/static/js/453.83234151.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8409a4f3.css",
-    "static/js/main.d593aa7a.js"
+    "static/css/main.06ce87a8.css",
+    "static/js/main.1b4151da.js"
   ]
 }
