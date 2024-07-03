@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Row, Col, Card, Carousel } from 'react-bootstrap';
 import "../styles/Certi.css";
-// Import logos (replace with actual paths to your logos)
+
 import fccLogo from './images/freecodecamp-svgrepo-com.svg';
 import nptelLogo from './images/code-square-svgrepo-com.svg';
 import googleLogo from './images/google-svgrepo-com.svg';
