@@ -1,12 +1,11 @@
 import React, { useEffect } from 'react';
 import { Container, Row, Col, Card } from 'react-bootstrap';
-import '../styles/Experience.css'; // Ensure correct path to your CSS file
-import 'animate.css/animate.min.css'; // Correct path to animate.css
-
+import '../styles/Experience.css'; 
+import 'animate.css/animate.min.css';
 const Experience = () => {
   useEffect(() => {
     const options = {
-      threshold: 0.2, // Adjust as needed
+      threshold: 0.2, 
     };
 
     const cardObserver = new IntersectionObserver((entries, observer) => {
@@ -18,12 +17,12 @@ const Experience = () => {
       });
     }, options);
 
-    // Observe each experience card
+   
     document.querySelectorAll('.experience-card').forEach(card => {
       cardObserver.observe(card);
     });
 
-    return () => cardObserver.disconnect(); // Clean up observer on component unmount
+    return () => cardObserver.disconnect(); t
   }, []);
 
   const experienceData = [
@@ -33,7 +32,7 @@ const Experience = () => {
       duration: 'Nov 2023 - Feb 2024',
       description: 'Worked on front-end development of live projects. Created responsive web pages using Bootstrap. Led the team of 5 interns and delivered tasks efficiently on time.',
     },
-    // Add more experience entries as needed
+   
   ];
 
   return (
