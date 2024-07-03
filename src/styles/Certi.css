@@ -2,41 +2,41 @@
 
 .certificates-section {
   background-color: rgba(192, 192, 198, 0.5);
-  padding: 40px 0; /* Padding around the section content */
+  padding: 40px 0;
 }
 
 .section-title {
-  color: #ffffff !important; /* Section title color */
-  margin-bottom: 20px; /* Space below the section title */
+  color: #ffffff !important;
+  margin-bottom: 20px; 
 }
 
 .certificate-card,
 .achievement-card {
-  background-color: rgba(44, 41, 41, 0.9); /* Slightly transparent dark background */
-  border: 1px solid #ddd; /* Card border */
+  background-color: rgba(44, 41, 41, 0.9);
+  border: 1px solid #ddd; 
   padding: 15px;
   color: white;
-  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Transition for hover effect */
-  margin-bottom: 20px; /* Equal spacing between cards */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; 
+  margin-bottom: 20px; 
 }
 
 .certificate-card:hover,
 .achievement-card:hover {
-  transform: translateY(-10px); /* Lift card on hover */
-  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2); /* Hover effect - shadow */
+  transform: translateY(-10px); 
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2); 
 }
 
 .logo-img {
-  max-width: 50px; /* Max width for logo images */
-  transition: transform 0.3s ease; /* Transition for logo animation */
+  max-width: 50px; 
+  transition: transform 0.3s ease;
 }
 
 .logo-img:hover {
-  transform: scale(1.1); /* Slight zoom */
+  transform: scale(1.1); 
 }
 
 .text-muted {
-  color: #a0a0a2 !important; /* Default muted text color */
+  color: #a0a0a2 !important;
 }
 .tit{
   color: #ffffff;
