@@ -1,32 +1,32 @@
-/* Contact.css */
+
 
 .contact-container {
-    background-color: rgba(44, 41, 41, 0.9); /* Slightly transparent dark background */
-    color: #ffffff; /* Text color */
+    background-color: rgba(44, 41, 41, 0.9);
+    color: #ffffff; 
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Shadow for the container */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
     text-align: center;
   }
   
   .contact-container h2 {
-    font-size: 24px; /* Heading size */
-    margin-bottom: 20px; /* Space below heading */
+    font-size: 24px; 
+    margin-bottom: 20px; 
   }
   
   .contact-info {
-    text-align: center; /* Align text to the left */
+    text-align: center; 
   }
   
   .contact-info p {
-    margin-bottom: 10px; /* Space between paragraphs */
+    margin-bottom: 10px;
   }
   
   .contact-info p svg {
-    margin-right: 10px; /* Space between icon and text */
+    margin-right: 10px; 
   }
   
   .contact-info p:last-child {
-    margin-bottom: 0; /* Remove bottom margin for last paragraph */
+    margin-bottom: 0; 
   }
   
