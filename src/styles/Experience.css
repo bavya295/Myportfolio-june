@@ -1,4 +1,4 @@
-/* Example animation styles */
+
 .animated {
     animation-duration: 1s;
     animation-fill-mode: both;
@@ -27,7 +27,7 @@
   }
   
   .experience-card .card-text {
-    color: #343a40; /* Dark color */
+    color: #343a40; 
   }
   .experience-container {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6); 
